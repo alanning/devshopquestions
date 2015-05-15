@@ -52,9 +52,9 @@ or
 Displays view
 -------------
 
-On http://devshopquestions.meteor.com/displays we have a special view to project
+On http://meteor-ny.meteor.com/displays we have a special view to project
 on the wall. In this view we emphasize the banner notification, questions and
-the Twitter feed on #Devshop.
+the Twitter feed on #Meteor-NY.
 
 Admins
 ------
@@ -62,7 +62,7 @@ Admins
 Admins can modify/delete/mark as answered any question. In addition admins can
 flag the question as "difficult" to ask for more help from core developers.
 
-Admins are configured in http://devshopquestions.meteor.com/admin panel and
+Admins are configured in http://meteor-ny.meteor.com/admin panel and
 added by their GitHub names.
 
 Deployment

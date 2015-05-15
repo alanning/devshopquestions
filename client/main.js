@@ -27,7 +27,7 @@ Template.header.rendered = function () {
 
 Template.header.title = function () {
   if (Meteor.Router.page() === "feed")
-    return "DevshopQuestions.Meteor.com";
+    return "meteor-ny.meteor.com";
   return "Devshop Questions";
 };
 
